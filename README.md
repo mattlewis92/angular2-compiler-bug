@@ -2,7 +2,7 @@ This is the source of the vendor library, as you can see there is a demo.compone
 
 <img src="screenshots/vendor-library-source.png">
 
-However after running ngc on this library `npm run ngc`, only the NgModule is codegen'd, as the component is not exported from the 3rd party module.
+However after running ngc on this repo `npm run ngc`, only the NgModule is codegen'd, as the component is not exported from the 3rd party module.
 
 <img src="screenshots/ngc-output.png">
 
