@@ -7,7 +7,7 @@
     "experimentalDecorators": true,
     "baseUrl": ".",
     "stripInternal": true,
-    "outDir": "./dist",
+    "outDir": "./ngc-output",
     "rootDir": "./",
     "sourceMap": true,
     "inlineSources": true,
@@ -18,7 +18,7 @@
   ],
   "angularCompilerOptions": {
     "strictMetadataEmit": true,
-    "genDir": "./dist",
+    "genDir": "./ngc-output",
     "debug": true
   }
 }
