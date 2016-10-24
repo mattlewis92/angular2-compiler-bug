@@ -17,19 +17,18 @@
   },
   "homepage": "https://github.com/mattlewis92/angular2-compiler-bug#readme",
   "dependencies": {
-    "@angular/core": "~2.0.1",
-    "@angular/platform-browser-dynamic": "~2.0.1",
+    "@angular/core": "angular/core-builds",
+    "@angular/platform-browser-dynamic": "angular/platform-browser-dynamic-builds",
     "core-js": "~2.4.1",
     "mwl-example-ng2-module": "~1.0.0",
     "rxjs": "~5.0.0-beta.12",
     "zone.js": "~0.6.25"
   },
   "devDependencies": {
-    "@angular/common": "~2.0.1",
-    "@angular/compiler": "~2.0.1",
-    "@angular/compiler-cli": "~0.6.3",
-    "@angular/platform-browser": "~2.0.1",
-    "@angular/platform-server": "~2.0.1",
+    "@angular/common": "angular/common-builds",
+    "@angular/compiler": "angular/compiler-builds",
+    "@angular/compiler-cli": "angular/compiler-cli-builds",
+    "@angular/platform-browser": "angular/platform-browser-builds",
     "typescript": "~2.0.3"
   }
 }
